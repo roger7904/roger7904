@@ -6,9 +6,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  </div>
-  <div id="badges">
-  <a href="">
+   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
