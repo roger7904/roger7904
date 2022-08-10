@@ -20,10 +20,12 @@
 - Likes to buy fun tech products
 - Major in Information Management
 
+### Work Experience
+- 25sprout, Android Developer Intern 2021.7 - 2022.6
+
 ### Languages and Tools :
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_taDxkqCzfRfZPcE1UQsmnJpkecpV5b_u5g&usqp=CAU"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/640px-Google_Material_Design_Logo.svg.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3628772-3030134.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
