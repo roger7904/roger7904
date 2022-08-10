@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1>
    Hi there, I'm Roger
+   <img src="banner.jpg" width="30px"/>
   </h1>
   <div id="badges">
   <a href="https://medium.com/@rogerchang7904">
