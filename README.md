@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
-  <a href="https://www.linkedin.com/in/%E6%9F%8F%E6%99%BA-%E6%98%8C-60441221b">
+  <a href="https://www.linkedin.com/in/rogerchang7904">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
