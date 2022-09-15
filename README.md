@@ -23,6 +23,9 @@
 ### Work Experience
 - 25sprout, Android Developer Intern 2021.7 - 2022.6
 
+### Links and CVs
+- [PDF](https://drive.google.com/drive/folders/1Cwlu1cUnAPzIZHeXVF9Y88Z6oHSCA1WD?usp=sharing)
+
 ### Languages and Tools :
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_taDxkqCzfRfZPcE1UQsmnJpkecpV5b_u5g&usqp=CAU"></code>
