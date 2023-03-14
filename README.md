@@ -22,6 +22,7 @@
 
 ### Work Experience
 - 25sprout, Android Developer Intern 2021.7 - 2022.6
+- StreetVoice, Android Engineer 2022.11 - 2023.2
 
 ### Links and CVs
 - [PDF](https://drive.google.com/drive/folders/1Cwlu1cUnAPzIZHeXVF9Y88Z6oHSCA1WD?usp=sharing)
