@@ -21,8 +21,8 @@
 - Major in Information Management
 
 ### Work Experience
-- <img height="20" src="25sprout.png"> 25sprout, Android Developer Intern 2021.7 - 2022.6
 - <img height="20" src="streetvoice.png"> StreetVoice, Android Engineer 2022.11 - 2023.2
+- <img height="20" src="25sprout.png"> 25sprout, Android Developer Intern 2021.7 - 2022.6
 
 ### Links and CVs
 - [PDF](https://drive.google.com/drive/folders/1Cwlu1cUnAPzIZHeXVF9Y88Z6oHSCA1WD?usp=sharing)
