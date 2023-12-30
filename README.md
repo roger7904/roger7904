@@ -26,7 +26,7 @@
 - <img height="20" src="25sprout.png"> 25sprout, Android Developer Intern 2021.7 - 2022.6
 
 ### Links and CVs
-- [PDF]([https://drive.google.com/drive/folders/1Cwlu1cUnAPzIZHeXVF9Y88Z6oHSCA1WD?usp=sharing](https://drive.google.com/file/d/1FJWY0U8iVzNkePO5u7emnqcWyLkcFesK/view?usp=drive_link))
+- [PDF](https://drive.google.com/file/d/1FJWY0U8iVzNkePO5u7emnqcWyLkcFesK/view?usp=drive_link)
 
 ### Languages and Tools :
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"></code>
