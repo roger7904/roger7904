@@ -5,11 +5,15 @@
   </h1>
   <div id="badges">
   <a href="https://medium.com/@rogerchang7904">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
     
   <a href="https://www.linkedin.com/in/rogerchang7904">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://twitter.com/https://twitter.com/rogerchang7904">
+    <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter Badge"/>
   </a>
   </div>
   <img src="banner.png" width="70%"/>
